@@ -16,8 +16,13 @@ A collection of papers, code, blogs, articles and resources pertaining to (anyth
 ## Code & Libraries
 * [word2vec - Original Implementation](https://code.google.com/archive/p/word2vec/)
 * [TensorFlow: Word Embeddings](https://www.tensorflow.org/tutorials/word2vec/)
+* [DeepLearning4J - Word2Vec](https://deeplearning4j.org/word2vec)
 
-## Blog, Websites, Articles
+## Blog, Websites & Articles
+* [Wikipedia: Word2Vec](https://www.wikiwand.com/en/Word2vec)
+* [Quora: How does word2vec work?](https://www.quora.com/How-does-word2vec-work)
 * [Lab41: Anything2Vec](https://gab41.lab41.org/anything2vec-e99ec0dc186#.5uesj7un1)
 
-## Lectures
+## Video, Lectures & Talks
+* [CS 224D Lecture 2 - Lectures from 2015](https://www.youtube.com/watch?v=T8tQZChniMk)
+* [MLMU.cz - Radim Řehůřek - Word2vec & Friends](https://www.youtube.com/watch?v=wTp3P2UnTfQ)

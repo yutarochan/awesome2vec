@@ -14,6 +14,7 @@ A collection of papers, code, blogs, articles and resources pertaining to (anyth
 ### Graph Embeddings
 
 ## Code & Libraries
+* [word2vec - Original Implementation](https://code.google.com/archive/p/word2vec/)
 * [TensorFlow: Word Embeddings](https://www.tensorflow.org/tutorials/word2vec/)
 
 ## Blog, Websites, Articles
